@@ -1,0 +1,10 @@
+{
+    "empresa": "LogiTech Mobility",
+    "total_veiculos": 6,
+    "sistema_ativo": true,
+    "combustiveis_permitidos": [
+        "Gasolina",
+        "Etanol",
+        "Diesel"
+    ]
+}
